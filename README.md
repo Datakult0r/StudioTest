@@ -10,6 +10,9 @@ The **AI News Show** is a multi-character interactive news broadcast featuring:
 
 The system pulls live news from the **Google News API** (filtered by AI/ML/Tech/Futurology) and generates fictional news when no major stories are available.
 
+
+![WhatsApp Image 2025-01-29 at 16 27 44_45e687f5](https://github.com/user-attachments/assets/80884553-1f97-4d64-a47d-b47ac2828099)
+
 ---
 
 ## 🚀 Key Features
@@ -174,6 +177,7 @@ ai-news-show/
 └── design/                 # Architecture & UI assets
     └── system_architecture.png
 
+![system_architecture](https://github.com/user-attachments/assets/686a99d5-58ed-4384-9e5a-347d5d793a5d)
 
 
 
