@@ -48,7 +48,8 @@ Each with distinct personality, voice, and visual avatar:
 
 ---
 
-🧩 Key Components
+## 🧩 Key Components
+
 Frontend Components
 NewsShow – Main application layout
 
@@ -73,7 +74,7 @@ NewsShowOrchestrator – Controls event flow
 
 ---
 
-☁️ Deployment Options
+## ☁️ Deployment Options
 Frontend	Backend
 Vercel	Heroku
 Netlify	Google Cloud Run
@@ -82,17 +83,23 @@ See docs/deployment_guide.md for detailed setup steps.
 
 ---
 
-📚 Documentation
-File	Description
-user_manual.md	End-user guide for viewers and producers
-deployment_guide.md	How to deploy frontend + backend
-testing_plan.md	QA and verification checklist
+## 📚 Documentation
+
+###File	Description
+user_manual.md	
+End-user guide for viewers and producers
+deployment_guide.md	
+How to deploy frontend + backend
+testing_plan.md	
+QA and verification checklist
 system_architecture.md	Visual and logic architecture
-character_profiles.md	Details on all 5 character personalities
+character_profiles.md	
+
+Details on all 5 character personalities
 
 ---
 
-🧭 Next Steps
+## 🧭 Next Steps
 
 Clone the repo
 
@@ -115,7 +122,7 @@ password: producer123
 
 ---
 
-🌱 Future Enhancements
+## 🌱 Future Enhancements
 Persistent memory for each character
 
 Full-body motion system
