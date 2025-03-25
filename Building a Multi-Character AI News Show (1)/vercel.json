@@ -1,0 +1,20 @@
+# Vercel Configuration
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "env": {
+    "NEXT_PUBLIC_BACKEND_URL": "https://ai-news-show-backend.herokuapp.com",
+    "NEXT_PUBLIC_SOCKET_URL": "https://ai-news-show-backend.herokuapp.com"
+  }
+}
